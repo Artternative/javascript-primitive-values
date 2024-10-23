@@ -4,4 +4,6 @@
 let numberOfSoldProduct = 12000;
 let numberOfProductInStock = undefined;
 
-console.log((numberOfSoldProduct / numberOfProductInStock) * 100);
+console.log((numberOfSoldProduct / numberOfProductInStock) * 100); 
+// after Quokka  : undefined
+// before Quokka  : Ok. it's NaN
